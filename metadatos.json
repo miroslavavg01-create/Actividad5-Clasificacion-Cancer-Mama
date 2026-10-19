@@ -1,0 +1,13 @@
+{
+  "dataset": "Wisconsin Breast Cancer Diagnostic",
+  "fuente": "https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic",
+  "registros_originales": 569,
+  "registros_limpios": 569,
+  "variables_predictoras": 30,
+  "semilla": 42,
+  "modelos": [
+    "Regresion_Logistica",
+    "Random_Forest"
+  ],
+  "uso": "Académico; no utilizar para diagnóstico médico."
+}

@@ -1,0 +1,4 @@
+Prueba de Wilcoxon pareada sobre F1 macro en cinco grupos.
+Estadístico: 2.0000
+Valor p: 0.3750
+Interpretar con cautela: solo se comparan cinco grupos.

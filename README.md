@@ -22,7 +22,9 @@ Python, scikit-learn, pandas, matplotlib y MLflow. El notebook está preparado p
 
 Resultados
 
-En la ejecución realizada, la regresión logística obtuvo un accuracy de 97.37%, un F1 macro de 97.16% y un ROC-AUC de 99.57%. Random Forest obtuvo un accuracy de 94.74%, un F1 macro de 94.35% y un ROC-AUC de 99.42%.
+En la ejecución realizada, la regresión logística obtuvo una exactitud del 97,37 %, una precisión macro del 97,41 %, un F1 macro del 97,16 % y un ROC-AUC del 99,57 %. Random Forest obtuvo una exactitud del 94,74 %, una precisión macro del 94,35 %, un F1 macro del 94,35 % y un ROC-AUC del 99,42 %.
+
+En esta ejecución, la regresión logística obtuvo mejores resultados en las métricas evaluadas. Sin embargo, el proyecto es académico y el modelo no debe utilizarse para diagnosticar pacientes reales.
 
 Cómo ejecutar
 
